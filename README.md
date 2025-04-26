@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @demose111
-- 🌱 I’m currently learning ...Automate Test by selenium with robotframework
+- 🌱 I’m currently QA but i interest about develop coding too.
 
 <!---
 demose111/demose111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
